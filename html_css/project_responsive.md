@@ -27,6 +27,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Alex Zambrano's Solution](https://github.com/Alexoid1/Building-with-Responsive-Design) - [View in Browser](https://alexoid1.github.io/Building-with-Responsive-Design/)
 * [Yiğit's Solution](https://github.com/yigitm/TNW-Clone) - [View in Browser](https://yigitm.github.io/TNW-Clone/)
 * [Haroon Abdulrazaq's Solution](https://github.com/Haroonabdulrazaq/Responsive-Design) - [View in Browser](https://haroonabdulrazaq.github.io/Responsive-Design/)
 * [Morgan's Solution](https://github.com/morganbonhomme/responsive-design) - [View in Browser](https://morganbonhomme.github.io/responsive-design/)
